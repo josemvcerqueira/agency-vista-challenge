@@ -2,48 +2,31 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c1ede8f9-1d65-47b8-8dde-1f66cf242b2e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/agency-vista-challenge.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/hangers.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/large-logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/shopping-bags.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/small-logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/star.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/user.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/comment-card/comment-card.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/comment-card/styles.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/data/data.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/data/styles.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/header/header.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/header/styles.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/layout/layout.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/layout/styles.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/navbar/navbar.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/navbar/styles.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/constants/card-data.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/elements/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/elements/profile-image/profile-image.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/elements/profile-image/styles.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/elements/progress-bar/progress-bar.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/elements/progress-bar/styles.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/elements/red-button/red-button.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/elements/red-button/styles.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/client-summary.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/chat-bubble.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/tag.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/world-map.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/big-card/big-card.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/big-card/styles.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/xl-card/style.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/xl-card/xl-card.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/constants/account-sizes-card.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/constants/big-card-data.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/constants/card-doughnut-data.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/constants/monthly-cost-doughnut-data.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/constants/network-doughnut-data.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/elements/star.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/utils.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.test.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/logo.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/setupTests.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/star.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/comment-card/comment-card.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/comment-card/comment-card.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/comment-card/styles.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/comment-card/styles.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/data/data.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/data/data.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/data/styles.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/data/styles.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/constants/card-data.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/constants/card-data.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/elements/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/elements/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/client-summary.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/client-summary.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -78,6 +61,7 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="prettierjs.PrettierConfiguration.Package" value="/usr/local/lib/node_modules/prettier" />
     <property name="settings.editor.selected.configurable" value="watcher.settings" />
+    <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
   </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
@@ -101,7 +85,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1576449483246</updated>
-      <workItem from="1576449485280" duration="12140000" />
+      <workItem from="1576449485280" duration="26020000" />
     </task>
     <servers />
   </component>
@@ -112,10 +96,10 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="36" y="224" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1576458996175">
+    <state x="36" y="224" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1576473581463">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="36" y="224" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.900@0.0.1440.900" timestamp="1576458996175" />
+    <state x="36" y="224" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.900@0.0.1440.900" timestamp="1576473581463" />
     <state x="233" y="225" key="EditFileWatcherDialog" timestamp="1576449543544">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
@@ -124,5 +108,9 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="90" y="75" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1576449545832" />
+    <state x="989" y="224" width="670" height="676" key="search.everywhere.popup" timestamp="1576472591945">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="989" y="224" width="670" height="676" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1576472591945" />
   </component>
 </project>

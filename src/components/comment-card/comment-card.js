@@ -1,25 +1,26 @@
 import React from "react";
 
+import { StarSVG } from "../../elements";
+
 import {
   CommentCardWrapper,
   CommentCardTitle,
   CommentCardDescription,
-  Star,
   BorderLeft,
   ContentContainer,
   StarWrapper
 } from "./styles";
 
 export default ({ color, star, border, title, description }) => (
-  <CommentCardWrapper border={border}>
-    {border && <BorderLeft />}
+  <CommentCardWrapper color={color} border={border}>
+    {border && <BorderLeft color={color} />}
     {star && (
       <StarWrapper>
-        <Star color={color} src={require("../../assets/star.svg")} />
+        <StarSVG fill={color} width="1.6rem" height="2rem" />
       </StarWrapper>
     )}
     <ContentContainer>
-      <CommentCardTitle>{title}</CommentCardTitle>
+      <CommentCardTitle color={color}>{title}</CommentCardTitle>
       <CommentCardDescription>{description}</CommentCardDescription>
     </ContentContainer>
   </CommentCardWrapper>

@@ -28,6 +28,7 @@ export default [
     card: {
       title: "Nice!",
       star: false,
+      color: "#2D9CDB",
       border: true,
       description: "Ogilvy is managing businesses of a similar size to yours."
     }

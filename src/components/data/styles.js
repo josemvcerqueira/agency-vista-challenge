@@ -46,7 +46,7 @@ export const CardContainer = styled.div`
 export const CardWrapper = styled.article`
   background-color: ${props => props.theme.colors.white};
   width: 58rem;
-  height: 58.9rem;
+  height: 65rem;
   box-shadow: 0 4px 10px rgba(39, 40, 49, 0.03);
   border-radius: 2px;
   padding: 2rem;
@@ -57,8 +57,8 @@ export const CardWrapper = styled.article`
 `;
 
 export const Icon = styled.img`
-  width: 6rem;
-  height: 5.4rem;
+  width: auto;
+  height: 5.5rem;
 `;
 
 export const CardTitle = styled.h2`
@@ -79,9 +79,17 @@ export const CardSubtitle = styled.h3`
   max-width: 40.3rem;
 `;
 
+export const BarContent = styled.div`
+  display: flex;
+  width: 100%;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+`;
+
 export const BarDescription = styled.h3`
   margin-top: 1.5rem;
-  color: #fd5359;
+  color: ${props => (props.value ? "#fd5359" : props.theme.colors.lightGray)};
   font-size: 1.6rem;
   line-height: 2rem;
   text-align: left;
