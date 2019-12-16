@@ -2,32 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c1ede8f9-1d65-47b8-8dde-1f66cf242b2e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/assets/chat-bubble.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/tag.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/world-map.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/big-card/big-card.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/big-card/styles.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/xl-card/style.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/xl-card/xl-card.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/constants/account-sizes-card.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/constants/big-card-data.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/constants/card-doughnut-data.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/constants/monthly-cost-doughnut-data.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/constants/network-doughnut-data.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/elements/star.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/utils.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/star.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/comment-card/comment-card.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/comment-card/comment-card.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/comment-card/styles.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/comment-card/styles.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/data/data.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/data/data.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/data/styles.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/data/styles.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/constants/card-data.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/constants/card-data.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/elements/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/elements/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/client-summary.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/client-summary.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/xl-card/style.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/xl-card/style.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -86,6 +61,7 @@
       <option name="presentableId" value="Default" />
       <updated>1576449483246</updated>
       <workItem from="1576449485280" duration="26020000" />
+      <workItem from="1576477460330" duration="27000" />
     </task>
     <servers />
   </component>

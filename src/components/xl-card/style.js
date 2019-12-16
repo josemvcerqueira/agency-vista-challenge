@@ -2,7 +2,8 @@ import styled from "styled-components";
 
 export const XLCardWrapper = styled.article`
   background-color: ${props => props.theme.colors.white};
-  width: 120rem;
+  min-width: 120rem;
+  width: 100%;
   height: 108rem;
   padding-top: 3.7rem;
   padding-bottom: 6.6rem;
